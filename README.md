@@ -1,5 +1,5 @@
 # Ex02 Django ORM Web Application
-## Date: 
+## Date: 03.04.2024
 
 ## AIM
 To develop a Django application to store and retrieve data from a Book database using Object Relational Mapping(ORM).
@@ -24,11 +24,14 @@ Execute Django admin and create details for 10 books
 
 ## PROGRAM
 
-Include your code here
+
 
 ## OUTPUT
 
-Include the screenshot of your admin page.
+![Screenshot 2024-04-03 135704](https://github.com/Harinimuthu17/ORM/assets/130278614/e1c67395-86a6-4f55-aa94-78fbe3b33902)
+
+![Screenshot 2024-04-03 135626](https://github.com/Harinimuthu17/ORM/assets/130278614/15d84522-7479-4498-bf41-bf323a22b389)
+
 
 
 ## RESULT
